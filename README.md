@@ -1,3 +1,2 @@
-# 5-second-test
+# impression-testing
 
-[View test](https://virginiacc.github.io/5-second-test/)
